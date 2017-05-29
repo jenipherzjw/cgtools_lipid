@@ -45,7 +45,7 @@ The 'configs/' folder contains several configuration files that are ready to be 
 PLEASE CITE US!
 ------------------------------------------------------------------------------
 If you use CGTools and obtain scientific results that you publish, we would ask 
-you to acknowledge the usage of GTools by referencing
+you to acknowledge the usage of CGTools by referencing
 
 [1] Z.-J. Wang, M. Deserno. A systematically coarse-grained solvent-free 
 model for quantitative phospholipid bilayer simulations. 
